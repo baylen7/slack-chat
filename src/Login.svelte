@@ -26,7 +26,7 @@
 <label for="password">Password</label>
 <input name="password" bind:value={password} type="password" />
 
-<label for="key">key</label>
+<label for="key">Key</label>
 <input name="key" bind:value={key} type="key" />
 
 <button class="login" on:click={login}>Login</button>
