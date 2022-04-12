@@ -25,6 +25,9 @@
 <label for="password">Password</label>
 <input name="password" bind:value={password} type="password" />
 
+<label for="access code">Access Code</label>
+<input name="access code" bind:value={accesscode} type="accesscode" />
+
 <button class="login" on:click={login}>Login</button>
 <button class="login"  on:click={signup}>Sign Up</button>
   
