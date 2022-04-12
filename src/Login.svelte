@@ -3,9 +3,10 @@
 
   let username;
   let password;
+  let key
 
   function login() {
-    user.auth(username, password, ({ err }) => err && alert(err));
+    user.auth(username, password, key, ({ err }) => err && alert(err));
   }
 
   function signup() {
