@@ -46,7 +46,7 @@ input:disabled {
 
 
 body {
-	background-color: #240090;
+	background-color: #190061;
   }
   
 .app {
@@ -56,7 +56,7 @@ body {
   }
   
 header {
-	background-color: #190061;
+	background-color: #0C0032;
 	height: 8vh;
 	min-height: 50px;
 	color: white;
