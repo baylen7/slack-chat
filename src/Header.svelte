@@ -13,7 +13,7 @@
     <div class="user-bio">
       
       <span>Hello <strong>{$username}</strong></span>
-      <img src={`https://avatars.dicebear.com/api/croodles/${$username}.svg`} alt="avatar" /> 
+      <img src={`https://avatars.dicebear.com/api/micah/${$username}.svg`} alt="avatar" /> 
     </div>
 
     <button class="signout-button" on:click={signout}>Sign Out</button>
