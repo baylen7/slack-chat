@@ -57,12 +57,12 @@ body {
   
 header {
 	background-color: #190061;
-	height: 10vh;
+	height: 8vh;
 	min-height: 50px;
 	color: white;
 	position: fixed;
 	width: 100%;
-	max-width: 728px;
+	max-width: 1700px;
 	top: 0;
 	display: flex;
 	align-items: center;
@@ -105,7 +105,7 @@ header {
 	bottom: 0;
 	background-color: rgb(53, 0, 211);
 	width: 100%;
-	max-width: 728px;
+	max-width: 1700px;
 	display: flex;
 	font-size: 1.5rem;
   }
